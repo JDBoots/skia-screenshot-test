@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
     position: 'absolute',
     alignSelf: 'center',
     padding: 20,
-    marginTop: 20,
+    marginTop: 80,
   },
   limeContainer: {
     backgroundColor: 'lime',
